@@ -1,0 +1,21 @@
+
+
+:root {
+   font-size: 16px;
+   font-family: 'Nunito Sans', sans-serif;   
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --background-black-light: #20232B;
+    --background-black-dark : #000000;
+    --primary-color-blue:#C6DCFC;
+    --secondary-color-lightWhite:rgba(255, 255, 255, 0.7); 
+    background-color:#C6DCFC;
+}
+
+
+*{
+  margin:0;
+  cursor: pointer;
+}
